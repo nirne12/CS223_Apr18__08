@@ -1,0 +1,323 @@
+# depslib dependency file v1.0
+1523253811 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\main.cpp
+	<bits/stdc++.h>
+	"mainPage.h"
+
+1523261429 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\mainpage.h
+	"logInPage.h"
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\loginpage.h
+	"adminHomePage.h"
+	"studentHomePage.h"
+	"mainPage.h"
+
+1523267871 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\adminhomepage.h
+	"RegisterStudent.h"
+	"ViewDetails.h"
+	"RemoveStudent.h"
+	"UpdateDetails.h"
+	"mainPage.h"
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\registerstudent.h
+	<bits/stdc++.h>
+	"adminHomePage.h"
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\viewdetails.h
+	"adminHomePage.h"
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\removestudent.h
+	"adminHomePage.h"
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\updatedetails.h
+	"adminHomePage.h"
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\studenthomepage.h
+	"SemesterFee.h"
+	"PayMessFee.h"
+	"ChangePassword.h"
+	"SeeReceipt.h"
+	"mainPage.h"
+	"Student.h"
+	<bits/stdc++.h>
+
+1523268819 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\student.h
+	<bits/stdc++.h>
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\semesterfee.h
+	<bits/stdc++.h>
+	"studentHomePage.h"
+	"Student.h"
+	"BTechGenObcStud.h"
+	"BTechSCST.h"
+	"MscGenObc.h"
+	"MscScSt.h"
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\btechgenobcstud.h
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\btechscst.h
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\mscgenobc.h
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\mscscst.h
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\paymessfee.h
+	"studentHomePage.h"
+	"Student.h"
+	<bits/stdc++.h>
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\changepassword.h
+	"studentHomePage.h"
+	"Student.h"
+	<bits/stdc++.h>
+
+1523268793 c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\include\seereceipt.h
+	"studentHomePage.h"
+	"Student.h"
+	<bits/stdc++.h>
+
+1524523546 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\adminhomepage.cpp
+	"adminHomePage.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256876 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\btechgenobcstud.cpp
+	"BTechGenObcStud.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256877 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\btechscst.cpp
+	"BTechSCST.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256876 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\changepassword.cpp
+	"ChangePassword.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1524477479 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\loginpage.cpp
+	"logInPage.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1524518053 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\mainpage.cpp
+	<bits/stdc++.h>
+	"mainPage.h"
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256877 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\mscgenobc.cpp
+	"MscGenObc.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256877 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\mscscst.cpp
+	"MscScSt.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256877 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\paymessfee.cpp
+	"PayMessFee.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256876 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\registerstudent.cpp
+	"RegisterStudent.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256876 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\removestudent.cpp
+	"RemoveStudent.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1524563694 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\seereceipt.cpp
+	"SeeReceipt.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1524563694 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\semesterfee.cpp
+	"SemesterFee.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256876 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\student.cpp
+	"Student.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1524518053 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\studenthomepage.cpp
+	"studentHomePage.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1524567054 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\updatedetails.cpp
+	"UpdateDetails.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256876 source:c:\users\nikunj\desktop\coa\software project .h .cpp\softwareproject\src\viewdetails.cpp
+	"ViewDetails.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523253811 source:c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\main.cpp
+	<bits/stdc++.h>
+	"mainPage.h"
+
+1523261429 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\mainpage.h
+	"logInPage.h"
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\loginpage.h
+	"adminHomePage.h"
+	"studentHomePage.h"
+	"mainPage.h"
+
+1523267871 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\adminhomepage.h
+	"RegisterStudent.h"
+	"ViewDetails.h"
+	"RemoveStudent.h"
+	"UpdateDetails.h"
+	"mainPage.h"
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\registerstudent.h
+	<bits/stdc++.h>
+	"adminHomePage.h"
+	"Student.h"
+
+1523268819 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\student.h
+	<bits/stdc++.h>
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\viewdetails.h
+	"adminHomePage.h"
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\removestudent.h
+	"adminHomePage.h"
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\updatedetails.h
+	"adminHomePage.h"
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\studenthomepage.h
+	"SemesterFee.h"
+	"PayMessFee.h"
+	"ChangePassword.h"
+	"SeeReceipt.h"
+	"mainPage.h"
+	"Student.h"
+	<bits/stdc++.h>
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\semesterfee.h
+	<bits/stdc++.h>
+	"studentHomePage.h"
+	"Student.h"
+	"BTechGenObcStud.h"
+	"BTechSCST.h"
+	"MscGenObc.h"
+	"MscScSt.h"
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\btechgenobcstud.h
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\btechscst.h
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\mscgenobc.h
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\mscscst.h
+	"Student.h"
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\paymessfee.h
+	"studentHomePage.h"
+	"Student.h"
+	<bits/stdc++.h>
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\changepassword.h
+	"studentHomePage.h"
+	"Student.h"
+	<bits/stdc++.h>
+
+1523268793 c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\include\seereceipt.h
+	"studentHomePage.h"
+	"Student.h"
+	<bits/stdc++.h>
+
+1523256876 source:c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\src\btechgenobcstud.cpp
+	"BTechGenObcStud.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256877 source:c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\src\btechscst.cpp
+	"BTechSCST.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256877 source:c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\src\mscgenobc.cpp
+	"MscGenObc.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256877 source:c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\src\mscscst.cpp
+	"MscScSt.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
+1523256876 source:c:\users\nikunj\desktop\software project final\software project .h .cpp\softwareproject\src\student.cpp
+	"Student.h"
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+

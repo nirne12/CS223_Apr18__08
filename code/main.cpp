@@ -9,4 +9,3 @@ int main()
     mp.showUserType();
     return 0;
 }
-

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="softwareproject" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/softwareproject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/softwareproject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/BTechGenObcStud.h" />
+		<Unit filename="include/BTechSCST.h" />
+		<Unit filename="include/ChangePassword.h" />
+		<Unit filename="include/MscGenObc.h" />
+		<Unit filename="include/MscScSt.h" />
+		<Unit filename="include/PayMessFee.h" />
+		<Unit filename="include/RegisterStudent.h" />
+		<Unit filename="include/RemoveStudent.h" />
+		<Unit filename="include/SeeReceipt.h" />
+		<Unit filename="include/SemesterFee.h" />
+		<Unit filename="include/Student.h" />
+		<Unit filename="include/UpdateDetails.h" />
+		<Unit filename="include/ViewDetails.h" />
+		<Unit filename="include/adminHomePage.h" />
+		<Unit filename="include/logInPage.h" />
+		<Unit filename="include/mainPage.h" />
+		<Unit filename="include/studentHomePage.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/BTechGenObcStud.cpp" />
+		<Unit filename="src/BTechSCST.cpp" />
+		<Unit filename="src/ChangePassword.cpp" />
+		<Unit filename="src/MscGenObc.cpp" />
+		<Unit filename="src/MscScSt.cpp" />
+		<Unit filename="src/PayMessFee.cpp" />
+		<Unit filename="src/RegisterStudent.cpp" />
+		<Unit filename="src/RemoveStudent.cpp" />
+		<Unit filename="src/SeeReceipt.cpp" />
+		<Unit filename="src/SemesterFee.cpp" />
+		<Unit filename="src/Student.cpp" />
+		<Unit filename="src/UpdateDetails.cpp" />
+		<Unit filename="src/ViewDetails.cpp" />
+		<Unit filename="src/adminHomePage.cpp" />
+		<Unit filename="src/logInPage.cpp" />
+		<Unit filename="src/mainPage.cpp" />
+		<Unit filename="src/studentHomePage.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
