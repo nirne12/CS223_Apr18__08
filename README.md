@@ -24,6 +24,9 @@ sudo apt-get install make
 
 Note - minimum cmake version is 3.10 , if below version is available than make changes in the CMakeLists.txt file accordingly.
 Note - if directory name code is changes to something else or location is changed after running than delete CMakeLists.txt file and follow the steps to run it successfully.
+Note - For Admin
+       ADMIN ID - Admin
+       PASSWORD- 123456
 
 ## Build with 
 * .[CodeBlocks].(www.codeblocks.org/)- CodeBlocks 
